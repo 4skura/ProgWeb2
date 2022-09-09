@@ -1,0 +1,54 @@
+body{
+    background-color: aquamarine;
+}
+
+table{
+    width: 100%;
+    height: auto;
+    border: 10px solid rgb(53, 55, 56);
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+
+div{
+    padding: -5px;
+    margin-top: -5pxpx;
+    margin-bottom: -5px;
+}
+
+.cverde{
+    background-color: greenyellow;
+}
+
+.crojo{
+    background-color: red;
+}
+
+.cmorado{
+    background-color: blueviolet;
+}
+
+.camarillo{
+    background-color: yellow;
+}
+
+.cblanco{
+    background-color: azure;
+}
+
+.tblanco{
+    color: aliceblue;
+}
+
+.right{
+    text-align: right;
+}
+
+.caqua{
+    background-color: aqua;
+}
+
+.borde{
+    border: 1px solid black;
+}
